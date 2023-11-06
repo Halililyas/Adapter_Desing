@@ -1,0 +1,8 @@
+C:\Users\hızır\Desktop\Adaper_Deseni\Adaper_Deseni\bin\Debug\Adaper_Deseni.exe.config
+C:\Users\hızır\Desktop\Adaper_Deseni\Adaper_Deseni\bin\Debug\Adaper_Deseni.exe
+C:\Users\hızır\Desktop\Adaper_Deseni\Adaper_Deseni\bin\Debug\Adaper_Deseni.pdb
+C:\Users\hızır\Desktop\Adaper_Deseni\Adaper_Deseni\obj\Debug\Adaper_Deseni.csproj.AssemblyReference.cache
+C:\Users\hızır\Desktop\Adaper_Deseni\Adaper_Deseni\obj\Debug\Adaper_Deseni.csproj.SuggestedBindingRedirects.cache
+C:\Users\hızır\Desktop\Adaper_Deseni\Adaper_Deseni\obj\Debug\Adaper_Deseni.csproj.CoreCompileInputs.cache
+C:\Users\hızır\Desktop\Adaper_Deseni\Adaper_Deseni\obj\Debug\Adaper_Deseni.exe
+C:\Users\hızır\Desktop\Adaper_Deseni\Adaper_Deseni\obj\Debug\Adaper_Deseni.pdb
